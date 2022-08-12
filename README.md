@@ -53,3 +53,19 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+-------------------------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araleo)](https://github.com/araleo/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araleo&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araleo)](https://github.com/araleo/github-readme-stats)
+
+-------------------------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guligon90)](https://github.com/guligon90/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guligon90&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guligon90)](https://github.com/guligon90/github-readme-stats)
